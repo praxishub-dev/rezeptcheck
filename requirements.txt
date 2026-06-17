@@ -1,0 +1,4 @@
+# RezeptCheck – Python-Abhängigkeiten
+# OCR läuft über Tesseract (per Homebrew installiert, siehe installer.sh)
+Pillow>=10.0.0
+blink1>=2.0.0
