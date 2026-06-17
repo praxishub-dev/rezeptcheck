@@ -1,4 +1,0 @@
-pyobjc-framework-Vision>=10.0
-pyobjc-framework-Quartz>=10.0
-blink1>=2.0.0
-Pillow>=10.0.0
